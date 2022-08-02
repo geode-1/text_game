@@ -53,6 +53,7 @@ def ending_get(ending, fact):
         score += 5
         loading()
         seperator()
+    return score
 
 
 # Method to make it easier to read writing + reward system for score
